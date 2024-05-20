@@ -7,7 +7,9 @@ Projekti i tretë nga lënda e 'Siguria e të dhënave' nën udhëheqjen e Ass. 
 
 # Kontribuesit
 Taulan Shala
+
 Vesa Grainca
+
 Venesa Fejza
 
 # Historia:
