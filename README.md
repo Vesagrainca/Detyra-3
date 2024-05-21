@@ -62,3 +62,5 @@ Kjo klasë menaxhon mesazhin ServerKeyExchange, i cili përmban çelësin publik
 
 # SSLHandshake.java
 Kjo është klasa kryesore që përmban logjikën e simulimit të handshake SSL/TLS. Ajo përfshin gjenerimin e certifikatave, dërgimin dhe marrjen e mesazheve të ndryshme, dhe verifikimin e certifikatave. Kjo klasë përdor një objekt të tipit TextArea për të shfaqur logun e ngjarjeve gjatë simulimit.
+# Ekzekutimi
+![img.png](img.png)
