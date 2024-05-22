@@ -6,7 +6,7 @@ Departamenti: Inxhinieri Kompjuterike dhe Softuerike
 Projekti i tretë nga lënda e 'Siguria e të dhënave' nën udhëheqjen e Ass. Arbena Musa
 
 # Kontribuesit
-Taulan Shala
+Taulant Qela
 
 Vesa Grainca
 
@@ -19,7 +19,7 @@ SSL/TLS (Secure Sockets Layer/Transport Layer Security) është një protokoll s
 Gjuhë Programimi: Java, JavaFX
 Biblioteka të jashtme: Bouncy Castle
 
-# Përshkrimi i File-ve Kryesore:
+# Përshkrimi i File-ve:
 
 # BouncyCastleProvider.java
 Kjo klasë zgjeron klasën Provider nga API-ja e Sigurisë së Java për të regjistruar ofruesin Bouncy Castle për operacionet kriptografike. Bouncy Castle është një bibliotekë e fuqishme që ofron shumë algoritme të ndryshëm kriptografikë. Kjo klasë është përdorur për të shtuar Bouncy Castle si një ofrues i sigurisë në aplikacionin tonë.
